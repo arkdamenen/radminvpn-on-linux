@@ -28,7 +28,7 @@ If not available, you can use **WiFi**. With some external USB WiFi cards, it ju
 
 
 # Scripts
-On **Windows**, you can use a script to create a bridge instead of doing everything again manually.
+On **Windows**, you can use a script to modify a bridge instead of doing everything again manually.
 
 The file is located at the [scripts](scripts) folder.
 
